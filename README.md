@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arif5152
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...not sure.
+- 🌱 I’m currently learning ...nothing
+- 💞️ I’m looking to collaborate on ...open-source maybe
 - 📫 arif.sk901@gmail.com
 
 <!---
